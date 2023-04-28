@@ -1,0 +1,87 @@
+body {
+	background: #ddd;
+	margin: 1rem;
+	padding: 1rem;
+	max-width: 500px;
+	margin: 2rem auto;
+	font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+#profileAbt{
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	background-color: rgb(182, 182, 182);
+	display: inline-block;
+}
+
+#profileCareer{
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	background-color: rgb(182, 182, 182);
+	display: inline-block;
+	margin-top: 15px;
+}
+
+#profileForm{
+	display: flex;
+}
+
+.buttonWcolor{
+	background-color: #26a522;
+	border: none;
+	color: rgb(0, 0, 0);
+	padding: 15px 15px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.buttonWplace{
+	background-color: #e91111;
+	border: none;
+	color: white;
+	padding: 15px 15px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.buttonWritual{
+	background-color: #4e4caf;
+	border: none;
+	color: white;
+	padding: 15px 15px;
+	text-decoration: none;
+}
