@@ -54,6 +54,15 @@ img {
 	margin-top: 15px;
 }
 
+#profileSkills{
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	background-color: rgb(182, 182, 182);
+	display: inline-block;
+	margin-top: 15px;
+}
+
 #profileForm{
 	display: flex;
 }
